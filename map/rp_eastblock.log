@@ -1785,6 +1785,7 @@ Level flags = 0
 Total triangle count: 3295
 Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
 3 seconds elapsed
+<<<<<<< HEAD
 
 
 
@@ -2051,3 +2052,5 @@ Level flags = 0
 Total triangle count: 4118
 Writing c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
 13 seconds elapsed
+=======
+>>>>>>> origin/master
