@@ -1916,3 +1916,1707 @@ Level flags = 0
 Total triangle count: 4529
 Writing c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
 20 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (105896 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 303 texinfos to 152
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 567 portalclusters
+1575 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 520 visible clusters (0.42%)
+Total clusters visible: 122923
+Average clusters visible: 216
+Building PAS...
+Average clusters audible: 487
+visdatasize:76838  compressed from 81648
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1645 faces
+5 degenerate faces
+1172307 square feet [168812256.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1640 patches before subdivision
+29802 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2093810, max 475
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(33665, 34381, 29320)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3930, 4115, 2947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(435, 466, 311)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 95, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(15, 18, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0111 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                315/8192         3780/98304    ( 3.8%) 
+brushsides            2425/65536       19400/524288   ( 3.7%) 
+planes                1456/65536       29120/1310720  ( 2.2%) 
+vertexes              2868/65536       34416/786432   ( 4.4%) 
+nodes                 1125/65536       36000/2097152  ( 1.7%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1645/65536       92120/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              640/65536       35840/3670016  ( 1.0%) 
+leaves                1127/65536       36064/2097152  ( 1.7%) 
+leaffaces             1901/65536        3802/131072   ( 2.9%) 
+leafbrushes            942/65536        1884/131072   ( 1.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             9977/512000      39908/2048000  ( 1.9%) 
+edges                 5811/256000      23244/1024000  ( 2.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            144/32768        1440/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2187/65536        4374/131072   ( 3.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803196/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76838/16777216 ( 0.5%) 
+entdata               [variable]        2574/393216   ( 0.7%) 
+LDR ambient table     1127/65536        4508/262144   ( 1.7%) 
+HDR ambient table     1127/65536        4508/262144   ( 1.7%) 
+LDR leaf ambient      4965/65536      139020/1835008  ( 7.6%) 
+HDR leaf ambient      1127/65536       31556/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1420     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      105896/4194304  ( 2.5%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4198
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (105896 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 303 texinfos to 152
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 567 portalclusters
+1575 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 520 visible clusters (0.42%)
+Total clusters visible: 122923
+Average clusters visible: 216
+Building PAS...
+Average clusters audible: 487
+visdatasize:76381  compressed from 81648
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1655 faces
+5 degenerate faces
+1172307 square feet [168812288.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1650 patches before subdivision
+29812 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2094498, max 475
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(33661, 34376, 29317)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3930, 4114, 2947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(435, 466, 311)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 95, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(15, 18, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0102 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                315/8192         3780/98304    ( 3.8%) 
+brushsides            2425/65536       19400/524288   ( 3.7%) 
+planes                1462/65536       29240/1310720  ( 2.2%) 
+vertexes              2882/65536       34584/786432   ( 4.4%) 
+nodes                 1135/65536       36320/2097152  ( 1.7%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1655/65536       92680/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              640/65536       35840/3670016  ( 1.0%) 
+leaves                1137/65536       36384/2097152  ( 1.7%) 
+leaffaces             1927/65536        3854/131072   ( 2.9%) 
+leafbrushes            952/65536        1904/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10025/512000      40100/2048000  ( 2.0%) 
+edges                 5835/256000      23340/1024000  ( 2.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2214/65536        4428/131072   ( 3.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803196/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76381/16777216 ( 0.5%) 
+entdata               [variable]        3279/393216   ( 0.8%) 
+LDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+HDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+LDR leaf ambient      4967/65536      139076/1835008  ( 7.6%) 
+HDR leaf ambient      1137/65536       31836/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1420     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      105896/4194304  ( 2.5%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4226
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (105896 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 303 texinfos to 152
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 567 portalclusters
+1575 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 520 visible clusters (0.42%)
+Total clusters visible: 122923
+Average clusters visible: 216
+Building PAS...
+Average clusters audible: 487
+visdatasize:76381  compressed from 81648
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1655 faces
+5 degenerate faces
+1172307 square feet [168812288.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1650 patches before subdivision
+29812 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2094498, max 475
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(33661, 34377, 29318)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3930, 4114, 2947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(435, 466, 311)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 95, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(15, 18, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0114 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                315/8192         3780/98304    ( 3.8%) 
+brushsides            2425/65536       19400/524288   ( 3.7%) 
+planes                1462/65536       29240/1310720  ( 2.2%) 
+vertexes              2882/65536       34584/786432   ( 4.4%) 
+nodes                 1135/65536       36320/2097152  ( 1.7%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1655/65536       92680/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              640/65536       35840/3670016  ( 1.0%) 
+leaves                1137/65536       36384/2097152  ( 1.7%) 
+leaffaces             1927/65536        3854/131072   ( 2.9%) 
+leafbrushes            952/65536        1904/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10025/512000      40100/2048000  ( 2.0%) 
+edges                 5835/256000      23340/1024000  ( 2.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2214/65536        4428/131072   ( 3.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803196/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76381/16777216 ( 0.5%) 
+entdata               [variable]        3280/393216   ( 0.8%) 
+LDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+HDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+LDR leaf ambient      4967/65536      139076/1835008  ( 7.6%) 
+HDR leaf ambient      1137/65536       31836/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1420     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      105896/4194304  ( 2.5%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4226
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (105896 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 303 texinfos to 152
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 567 portalclusters
+1575 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 520 visible clusters (0.42%)
+Total clusters visible: 122923
+Average clusters visible: 216
+Building PAS...
+Average clusters audible: 487
+visdatasize:76381  compressed from 81648
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1655 faces
+5 degenerate faces
+1172307 square feet [168812288.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1650 patches before subdivision
+29812 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2094498, max 475
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(33757, 34467, 29397)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3953, 4136, 2964)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(439, 470, 314)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(86, 96, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(16, 18, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0127 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                315/8192         3780/98304    ( 3.8%) 
+brushsides            2425/65536       19400/524288   ( 3.7%) 
+planes                1462/65536       29240/1310720  ( 2.2%) 
+vertexes              2882/65536       34584/786432   ( 4.4%) 
+nodes                 1135/65536       36320/2097152  ( 1.7%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1655/65536       92680/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              640/65536       35840/3670016  ( 1.0%) 
+leaves                1137/65536       36384/2097152  ( 1.7%) 
+leaffaces             1927/65536        3854/131072   ( 2.9%) 
+leafbrushes            952/65536        1904/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10025/512000      40100/2048000  ( 2.0%) 
+edges                 5835/256000      23340/1024000  ( 2.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2214/65536        4428/131072   ( 3.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803196/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76381/16777216 ( 0.5%) 
+entdata               [variable]        3453/393216   ( 0.9%) 
+LDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+HDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+LDR leaf ambient      4976/65536      139328/1835008  ( 7.6%) 
+HDR leaf ambient      1137/65536       31836/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1420     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      105896/4194304  ( 2.5%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4226
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+13 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (105896 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 303 texinfos to 152
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 567 portalclusters
+1575 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 520 visible clusters (0.42%)
+Total clusters visible: 122923
+Average clusters visible: 216
+Building PAS...
+Average clusters audible: 487
+visdatasize:76381  compressed from 81648
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1655 faces
+5 degenerate faces
+1172307 square feet [168812288.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1650 patches before subdivision
+29812 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2094498, max 475
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(33933, 34633, 29549)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3999, 4178, 2998)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(447, 477, 319)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(88, 97, 62)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(16, 18, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0166 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                315/8192         3780/98304    ( 3.8%) 
+brushsides            2425/65536       19400/524288   ( 3.7%) 
+planes                1462/65536       29240/1310720  ( 2.2%) 
+vertexes              2882/65536       34584/786432   ( 4.4%) 
+nodes                 1135/65536       36320/2097152  ( 1.7%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1655/65536       92680/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              640/65536       35840/3670016  ( 1.0%) 
+leaves                1137/65536       36384/2097152  ( 1.7%) 
+leaffaces             1927/65536        3854/131072   ( 2.9%) 
+leafbrushes            952/65536        1904/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10025/512000      40100/2048000  ( 2.0%) 
+edges                 5835/256000      23340/1024000  ( 2.3%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2214/65536        4428/131072   ( 3.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803196/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76381/16777216 ( 0.5%) 
+entdata               [variable]        3807/393216   ( 1.0%) 
+LDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+HDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+LDR leaf ambient      4978/65536      139384/1835008  ( 7.6%) 
+HDR leaf ambient      1137/65536       31836/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1420     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      105896/4194304  ( 2.5%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4226
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+16 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (105896 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 303 texinfos to 152
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 567 portalclusters
+1575 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 520 visible clusters (0.42%)
+Total clusters visible: 122923
+Average clusters visible: 216
+Building PAS...
+Average clusters audible: 487
+visdatasize:76381  compressed from 81648
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1655 faces
+5 degenerate faces
+1172307 square feet [168812288.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1650 patches before subdivision
+29812 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2094498, max 475
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(34401, 35076, 29811)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4110, 4283, 3053)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(468, 495, 327)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(92, 101, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(17, 19, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0111 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                315/8192         3780/98304    ( 3.8%) 
+brushsides            2425/65536       19400/524288   ( 3.7%) 
+planes                1462/65536       29240/1310720  ( 2.2%) 
+vertexes              2882/65536       34584/786432   ( 4.4%) 
+nodes                 1135/65536       36320/2097152  ( 1.7%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1655/65536       92680/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              640/65536       35840/3670016  ( 1.0%) 
+leaves                1137/65536       36384/2097152  ( 1.7%) 
+leaffaces             1927/65536        3854/131072   ( 2.9%) 
+leafbrushes            952/65536        1904/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10025/512000      40100/2048000  ( 2.0%) 
+edges                 5835/256000      23340/1024000  ( 2.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2214/65536        4428/131072   ( 3.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803196/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76381/16777216 ( 0.5%) 
+entdata               [variable]        2995/393216   ( 0.8%) 
+LDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+HDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+LDR leaf ambient      4967/65536      139076/1835008  ( 7.6%) 
+HDR leaf ambient      1137/65536       31836/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1420     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      105896/4194304  ( 2.5%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4226
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (105896 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 303 texinfos to 152
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 567 portalclusters
+1575 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 520 visible clusters (0.42%)
+Total clusters visible: 122923
+Average clusters visible: 216
+Building PAS...
+Average clusters audible: 487
+visdatasize:76381  compressed from 81648
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1655 faces
+5 degenerate faces
+1172307 square feet [168812288.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1650 patches before subdivision
+29812 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2094498, max 475
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(34401, 35076, 29811)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4110, 4283, 3053)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(468, 495, 327)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(92, 101, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(17, 19, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0114 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                315/8192         3780/98304    ( 3.8%) 
+brushsides            2425/65536       19400/524288   ( 3.7%) 
+planes                1462/65536       29240/1310720  ( 2.2%) 
+vertexes              2882/65536       34584/786432   ( 4.4%) 
+nodes                 1135/65536       36320/2097152  ( 1.7%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1655/65536       92680/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              640/65536       35840/3670016  ( 1.0%) 
+leaves                1137/65536       36384/2097152  ( 1.7%) 
+leaffaces             1927/65536        3854/131072   ( 2.9%) 
+leafbrushes            952/65536        1904/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10025/512000      40100/2048000  ( 2.0%) 
+edges                 5835/256000      23340/1024000  ( 2.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2214/65536        4428/131072   ( 3.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803196/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76381/16777216 ( 0.5%) 
+entdata               [variable]        3024/393216   ( 0.8%) 
+LDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+HDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+LDR leaf ambient      4967/65536      139076/1835008  ( 7.6%) 
+HDR leaf ambient      1137/65536       31836/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1420     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      105896/4194304  ( 2.5%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4226
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (105896 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 303 texinfos to 152
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 567 portalclusters
+1575 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 520 visible clusters (0.42%)
+Total clusters visible: 122923
+Average clusters visible: 216
+Building PAS...
+Average clusters audible: 487
+visdatasize:76381  compressed from 81648
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1655 faces
+5 degenerate faces
+1172307 square feet [168812288.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1650 patches before subdivision
+29812 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2094498, max 475
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(34401, 35076, 29811)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4110, 4283, 3053)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(468, 495, 327)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(92, 101, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(17, 19, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0112 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                315/8192         3780/98304    ( 3.8%) 
+brushsides            2425/65536       19400/524288   ( 3.7%) 
+planes                1462/65536       29240/1310720  ( 2.2%) 
+vertexes              2882/65536       34584/786432   ( 4.4%) 
+nodes                 1135/65536       36320/2097152  ( 1.7%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1655/65536       92680/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              640/65536       35840/3670016  ( 1.0%) 
+leaves                1137/65536       36384/2097152  ( 1.7%) 
+leaffaces             1927/65536        3854/131072   ( 2.9%) 
+leafbrushes            952/65536        1904/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10025/512000      40100/2048000  ( 2.0%) 
+edges                 5835/256000      23340/1024000  ( 2.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2214/65536        4428/131072   ( 3.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803196/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76381/16777216 ( 0.5%) 
+entdata               [variable]        2997/393216   ( 0.8%) 
+LDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+HDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+LDR leaf ambient      4967/65536      139076/1835008  ( 7.6%) 
+HDR leaf ambient      1137/65536       31836/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1420     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      105896/4194304  ( 2.5%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4226
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (105896 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 303 texinfos to 152
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 567 portalclusters
+1575 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 520 visible clusters (0.42%)
+Total clusters visible: 122923
+Average clusters visible: 216
+Building PAS...
+Average clusters audible: 487
+visdatasize:76381  compressed from 81648
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1655 faces
+5 degenerate faces
+1172307 square feet [168812288.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1650 patches before subdivision
+29812 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2094498, max 475
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(36479, 37035, 31190)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4615, 4756, 3350)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(563, 580, 373)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(112, 119, 72)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(21, 22, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 6, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0139 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                315/8192         3780/98304    ( 3.8%) 
+brushsides            2425/65536       19400/524288   ( 3.7%) 
+planes                1462/65536       29240/1310720  ( 2.2%) 
+vertexes              2882/65536       34584/786432   ( 4.4%) 
+nodes                 1135/65536       36320/2097152  ( 1.7%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1655/65536       92680/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              640/65536       35840/3670016  ( 1.0%) 
+leaves                1137/65536       36384/2097152  ( 1.7%) 
+leaffaces             1927/65536        3854/131072   ( 2.9%) 
+leafbrushes            952/65536        1904/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10025/512000      40100/2048000  ( 2.0%) 
+edges                 5835/256000      23340/1024000  ( 2.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2214/65536        4428/131072   ( 3.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803196/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76381/16777216 ( 0.5%) 
+entdata               [variable]        2996/393216   ( 0.8%) 
+LDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+HDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+LDR leaf ambient      4970/65536      139160/1835008  ( 7.6%) 
+HDR leaf ambient      1137/65536       31836/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1420     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      105896/4194304  ( 2.5%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4226
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+14 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (111088 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 317 texinfos to 179
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 587 portalclusters
+1742 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 505 visible clusters (0.33%)
+Total clusters visible: 154656
+Average clusters visible: 263
+Building PAS...
+Average clusters audible: 560
+visdatasize:87668  compressed from 93920
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+47 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1698 faces
+5 degenerate faces
+1149223 square feet [165488160.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1693 patches before subdivision
+27851 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2263620, max 693
+transfer lists:  17.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(42363, 43114, 37151)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8158, 8528, 6829)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1231, 1316, 1019)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(266, 294, 220)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(47, 53, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 12, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0112 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                330/8192         3960/98304    ( 4.0%) 
+brushsides            2515/65536       20120/524288   ( 3.8%) 
+planes                1492/65536       29840/1310720  ( 2.3%) 
+vertexes              2880/65536       34560/786432   ( 4.4%) 
+nodes                 1173/65536       37536/2097152  ( 1.8%) 
+texinfos               179/12288       12888/884736   ( 1.5%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1698/65536       95088/3670016  ( 2.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              749/65536       41944/3670016  ( 1.1%) 
+leaves                1175/65536       37600/2097152  ( 1.8%) 
+leaffaces             1954/65536        3908/131072   ( 3.0%) 
+leafbrushes            969/65536        1938/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10622/512000      42488/2048000  ( 2.1%) 
+edges                 6114/256000      24456/1024000  ( 2.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            143/32768        1430/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2118/65536        4236/131072   ( 3.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1544352/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       87668/16777216 ( 0.5%) 
+entdata               [variable]        3099/393216   ( 0.8%) 
+LDR ambient table     1175/65536        4700/262144   ( 1.8%) 
+HDR ambient table     1175/65536        4700/262144   ( 1.8%) 
+LDR leaf ambient      5901/65536      165228/1835008  ( 9.0%) 
+HDR leaf ambient      1175/65536       32900/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1424     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      111088/4194304  ( 2.6%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4299
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+14 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (116800 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 339 texinfos to 189
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 606 portalclusters
+1816 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 659 visible clusters (0.38%)
+Total clusters visible: 172243
+Average clusters visible: 284
+Building PAS...
+Average clusters audible: 579
+visdatasize:92355  compressed from 96960
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1 minute, 54 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1788 faces
+5 degenerate faces
+1149434 square feet [165518624.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1783 patches before subdivision
+27977 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2382115, max 739
+transfer lists:  18.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(42828, 43578, 37544)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8212, 8584, 6879)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1236, 1321, 1024)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(266, 294, 220)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(47, 53, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 12, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0145 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                346/8192         4152/98304    ( 4.2%) 
+brushsides            2611/65536       20888/524288   ( 4.0%) 
+planes                1512/65536       30240/1310720  ( 2.3%) 
+vertexes              3002/65536       36024/786432   ( 4.6%) 
+nodes                 1209/65536       38688/2097152  ( 1.8%) 
+texinfos               189/12288       13608/884736   ( 1.5%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1788/65536      100128/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              817/65536       45752/3670016  ( 1.2%) 
+leaves                1211/65536       38752/2097152  ( 1.8%) 
+leaffaces             2049/65536        4098/131072   ( 3.1%) 
+leafbrushes            990/65536        1980/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            11334/512000      45336/2048000  ( 2.2%) 
+edges                 6510/256000      26040/1024000  ( 2.5%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            149/32768        1490/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2205/65536        4410/131072   ( 3.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1549504/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       92355/16777216 ( 0.6%) 
+entdata               [variable]        3204/393216   ( 0.8%) 
+LDR ambient table     1211/65536        4844/262144   ( 1.8%) 
+HDR ambient table     1211/65536        4844/262144   ( 1.8%) 
+LDR leaf ambient      6081/65536      170268/1835008  ( 9.3%) 
+HDR leaf ambient      1211/65536       33908/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1422     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      116800/4194304  ( 2.8%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4559
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+20 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (122272 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 367 texinfos to 201
+Reduced 22 texdatas to 18 (621 bytes to 471)
+Writing C:\Users\Jacek\Documents\GitHub\slavblock\map\rp_eastblock.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+reading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.prt
+ 611 portalclusters
+1828 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 671 visible clusters (0.38%)
+Total clusters visible: 175984
+Average clusters visible: 288
+Building PAS...
+Average clusters audible: 584
+visdatasize:94421  compressed from 97760
+writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1 minute, 53 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+1840 faces
+5 degenerate faces
+1149188 square feet [165483168.00 square inches]
+6 Displacements
+24711 Square Feet [3558400.00 Square Inches]
+1835 patches before subdivision
+28085 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2425575, max 757
+transfer lists:  18.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(43023, 43777, 37730)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8274, 8650, 6936)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1247, 1334, 1035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(268, 296, 222)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(47, 53, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 12, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0159 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                362/8192         4344/98304    ( 4.4%) 
+brushsides            2707/65536       21656/524288   ( 4.1%) 
+planes                1528/65536       30560/1310720  ( 2.3%) 
+vertexes              3076/65536       36912/786432   ( 4.7%) 
+nodes                 1225/65536       39200/2097152  ( 1.9%) 
+texinfos               201/12288       14472/884736   ( 1.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11368/0           11368/0        ( 0.0%) 
+faces                 1840/65536      103040/3670016  ( 2.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              872/65536       48832/3670016  ( 1.3%) 
+leaves                1227/65536       39264/2097152  ( 1.9%) 
+leaffaces             2100/65536        4200/131072   ( 3.2%) 
+leafbrushes           1012/65536        2024/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            11830/512000      47320/2048000  ( 2.3%) 
+edges                 6808/256000      27232/1024000  ( 2.7%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            154/32768        1540/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2292/65536        4584/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1552240/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       94421/16777216 ( 0.6%) 
+entdata               [variable]        2996/393216   ( 0.8%) 
+LDR ambient table     1227/65536        4908/262144   ( 1.9%) 
+HDR ambient table     1227/65536        4908/262144   ( 1.9%) 
+LDR leaf ambient      6126/65536      171528/1835008  ( 9.3%) 
+HDR leaf ambient      1227/65536       34356/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1422     ( 0.1%) 
+pakfile               [variable]      212336/0        ( 0.0%) 
+physics               [variable]      122272/4194304  ( 2.9%) 
+physics terrain       [variable]         348/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4731
+Writing c:\users\jacek\documents\github\slavblock\map\rp_eastblock.bsp
+27 seconds elapsed
