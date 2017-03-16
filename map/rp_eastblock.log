@@ -10401,3 +10401,338 @@ Reduced 998 texinfos to 557
 Reduced 78 texdatas to 73 (1973 bytes to 1756)
 Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
 3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 136 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (266921 bytes)
+Error! prop_static using model "models/props_c17/hospital_bed01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/hospital_bed01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1012 texinfos to 559
+Reduced 78 texdatas to 73 (1973 bytes to 1756)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 136 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (267777 bytes)
+Error! prop_static using model "models/props_c17/hospital_bed01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/hospital_bed01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1011 texinfos to 561
+Reduced 79 texdatas to 74 (2000 bytes to 1783)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 136 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (267809 bytes)
+Error! prop_static using model "models/props_c17/hospital_bed01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/hospital_bed01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1011 texinfos to 561
+Reduced 79 texdatas to 74 (2000 bytes to 1783)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 136 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (267841 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1011 texinfos to 561
+Reduced 79 texdatas to 74 (2000 bytes to 1783)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 136 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (267777 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1011 texinfos to 561
+Reduced 79 texdatas to 74 (2000 bytes to 1783)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 136 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (267777 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1011 texinfos to 561
+Reduced 79 texdatas to 74 (2000 bytes to 1783)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+4 seconds elapsed
+
+
+
+4 threads
+reading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+reading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.prt
+ 651 portalclusters
+1889 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1507 visible clusters (0.76%)
+Total clusters visible: 197184
+Average clusters visible: 302
+Building PAS...
+Average clusters audible: 625
+visdatasize:105195  compressed from 114576
+writing c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+2 minutes, 5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+2546 faces
+9 degenerate faces
+946749 square feet [136331904.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2537 patches before subdivision
+35635 patches after subdivision
+35 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3881208, max 905
+transfer lists:  29.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(89387, 80027, 65847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(26465, 21199, 14743)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8538, 6133, 3686)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3367, 2249, 1182)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1360, 852, 402)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(580, 346, 147)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(252, 144, 56)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(111, 62, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(50, 27, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(23, 12, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(10, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0336 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes                799/8192         9588/98304    ( 9.8%) 
+brushsides            5726/65536       45808/524288   ( 8.7%) 
+planes                2460/65536       49200/1310720  ( 3.8%) 
+vertexes              4872/65536       58464/786432   ( 7.4%) 
+nodes                 1444/65536       46208/2097152  ( 2.2%) 
+texinfos               561/12288       40392/884736   ( 4.6%) 
+texdata                 74/2048         2368/65536    ( 3.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2546/65536      142576/3670016  ( 3.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1623/65536       90888/3670016  ( 2.5%) 
+leaves                1461/65536       46752/2097152  ( 2.2%) 
+leaffaces             3247/65536        6494/131072   ( 5.0%) 
+leafbrushes           1845/65536        3690/131072   ( 2.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            18682/512000      74728/2048000  ( 3.6%) 
+edges                11566/256000      46264/1024000  ( 4.5%) 
+LDR worldlights         35/8192         3080/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            354/32768        3540/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5874/65536       11748/131072   ( 9.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1513412/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      105195/16777216 ( 0.6%) 
+entdata               [variable]       34386/393216   ( 8.7%) 
+LDR ambient table     1461/65536        5844/262144   ( 2.2%) 
+HDR ambient table     1461/65536        5844/262144   ( 2.2%) 
+LDR leaf ambient      7337/65536      205436/1835008  (11.2%) 
+HDR leaf ambient      1461/65536       40908/1835008  ( 2.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5222     ( 0.0%) 
+pakfile               [variable]      212709/0        ( 0.0%) 
+physics               [variable]      267777/4194304  ( 6.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7167
+Writing c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+45 seconds elapsed
