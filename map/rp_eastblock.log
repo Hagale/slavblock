@@ -12735,3 +12735,569 @@ Reduced 117 texdatas to 107 (2961 bytes to 2543)
 Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
 13 seconds elapsed
 .
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 332 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (605373 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1785 texinfos to 1101
+Reduced 117 texdatas to 107 (2961 bytes to 2543)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+7 seconds elapsed
+
+
+
+4 threads
+reading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+reading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.prt
+1374 portalclusters
+3455 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+No vis information, direct lighting only.
+6347 faces
+10 degenerate faces
+1715380 square feet [247014784.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+124 direct lights
+0...1...2...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 332 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (605373 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1785 texinfos to 1101
+Reduced 117 texdatas to 107 (2961 bytes to 2543)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+6 seconds elapsed
+
+
+
+4 threads
+reading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+reading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.prt
+1374 portalclusters
+3455 numportals
+0...1...2...3...4...5...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 332 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (605501 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1796 texinfos to 1102
+Reduced 118 texdatas to 108 (2980 bytes to 2562)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+4 seconds elapsed
+
+
+
+4 threads
+reading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+reading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.prt
+1026 portalclusters
+2508 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1173 visible clusters (0.61%)
+Total clusters visible: 192817
+Average clusters visible: 187
+Building PAS...
+Average clusters audible: 929
+visdatasize:209074  compressed from 279072
+writing c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+9 minutes, 19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+6321 faces
+10 degenerate faces
+1715608 square feet [247047552.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6311 patches before subdivision
+97253 patches after subdivision
+124 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7443477, max 1139
+transfer lists:  56.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(247436, 211124, 172026)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(86363, 65337, 45062)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(29774, 20122, 11888)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(12012, 7522, 3906)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4745, 2789, 1276)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1978, 1109, 451)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(822, 442, 160)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(351, 182, 59)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(150, 75, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(65, 32, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(29, 13, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2093 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  60/1024         2880/49152    ( 5.9%) 
+brushes               1857/8192        22284/98304    (22.7%) 
+brushsides           12264/65536       98112/524288   (18.7%) 
+planes                3024/65536       60480/1310720  ( 4.6%) 
+vertexes             10790/65536      129480/786432   (16.5%) 
+nodes                 3215/65536      102880/2097152  ( 4.9%) 
+texinfos              1102/12288       79344/884736   ( 9.0%) 
+texdata                108/2048         3456/65536    ( 5.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6321/65536      353976/3670016  ( 9.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4259/65536      238504/3670016  ( 6.5%) 
+leaves                3276/65536      104832/2097152  ( 5.0%) 
+leaffaces             7581/65536       15162/131072   (11.6%) 
+leafbrushes           3511/65536        7022/131072   ( 5.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            47273/512000     189092/2048000  ( 9.2%) 
+edges                29367/256000     117468/1024000  (11.5%) 
+LDR worldlights        124/8192        10912/720896   ( 1.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            812/32768        8120/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13632/65536       27264/131072   (20.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                12/512          4224/180224   ( 2.3%) 
+LDR lightdata         [variable]     6548380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      209074/16777216 ( 1.2%) 
+entdata               [variable]       92210/393216   (23.5%) 
+LDR ambient table     3276/65536       13104/262144   ( 5.0%) 
+HDR ambient table     3276/65536       13104/262144   ( 5.0%) 
+LDR leaf ambient     15892/65536      444976/1835008  (24.2%) 
+HDR leaf ambient      3276/65536       91728/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/10958    ( 0.0%) 
+pakfile               [variable]      214427/0        ( 0.0%) 
+physics               [variable]      605501/4194304  (14.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 17681
+Writing c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+2 minutes, 9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 172409: FloatPlane: bad normal
+Side 1
+Texture: DEV/DEV_MEASUREGENERIC01
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+6321 faces
+10 degenerate faces
+1715608 square feet [247047552.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6311 patches before subdivision
+97253 patches after subdivision
+124 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7443477, max 1139
+transfer lists:  56.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(247436, 211124, 172026)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(86363, 65337, 45062)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(29774, 20122, 11888)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(12012, 7522, 3906)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4745, 2789, 1276)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1978, 1109, 451)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(822, 442, 160)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(351, 182, 59)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(150, 75, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(65, 32, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(29, 13, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0757 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  60/1024         2880/49152    ( 5.9%) 
+brushes               1857/8192        22284/98304    (22.7%) 
+brushsides           12264/65536       98112/524288   (18.7%) 
+planes                3024/65536       60480/1310720  ( 4.6%) 
+vertexes             10790/65536      129480/786432   (16.5%) 
+nodes                 3215/65536      102880/2097152  ( 4.9%) 
+texinfos              1102/12288       79344/884736   ( 9.0%) 
+texdata                108/2048         3456/65536    ( 5.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6321/65536      353976/3670016  ( 9.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4259/65536      238504/3670016  ( 6.5%) 
+leaves                3276/65536      104832/2097152  ( 5.0%) 
+leaffaces             7581/65536       15162/131072   (11.6%) 
+leafbrushes           3511/65536        7022/131072   ( 5.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            47273/512000     189092/2048000  ( 9.2%) 
+edges                29367/256000     117468/1024000  (11.5%) 
+LDR worldlights        124/8192        10912/720896   ( 1.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            812/32768        8120/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13632/65536       27264/131072   (20.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                12/512          4224/180224   ( 2.3%) 
+LDR lightdata         [variable]     6548380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      209074/16777216 ( 1.2%) 
+entdata               [variable]       92210/393216   (23.5%) 
+LDR ambient table     3276/65536       13104/262144   ( 5.0%) 
+HDR ambient table     3276/65536       13104/262144   ( 5.0%) 
+LDR leaf ambient     15892/65536      444976/1835008  (24.2%) 
+HDR leaf ambient      3276/65536       91728/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/10958    ( 0.0%) 
+pakfile               [variable]      214427/0        ( 0.0%) 
+physics               [variable]      605501/4194304  (14.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 17681
+Writing c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+1 minute, 28 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 172409: FloatPlane: bad normal
+Side 1
+Texture: DEV/DEV_MEASUREGENERIC01
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+6321 faces
+10 degenerate faces
+1715608 square feet [247047552.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6311 patches before subdivision
+97253 patches after subdivision
+124 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7443477, max 1139
+transfer lists:  56.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(247437, 211125, 172027)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(86363, 65338, 45063)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(29774, 20122, 11888)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(12012, 7522, 3906)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4745, 2789, 1276)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1978, 1109, 451)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(822, 442, 160)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(351, 182, 59)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(150, 75, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(65, 32, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(29, 13, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0806 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  60/1024         2880/49152    ( 5.9%) 
+brushes               1857/8192        22284/98304    (22.7%) 
+brushsides           12264/65536       98112/524288   (18.7%) 
+planes                3024/65536       60480/1310720  ( 4.6%) 
+vertexes             10790/65536      129480/786432   (16.5%) 
+nodes                 3215/65536      102880/2097152  ( 4.9%) 
+texinfos              1102/12288       79344/884736   ( 9.0%) 
+texdata                108/2048         3456/65536    ( 5.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6321/65536      353976/3670016  ( 9.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4259/65536      238504/3670016  ( 6.5%) 
+leaves                3276/65536      104832/2097152  ( 5.0%) 
+leaffaces             7581/65536       15162/131072   (11.6%) 
+leafbrushes           3511/65536        7022/131072   ( 5.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            47273/512000     189092/2048000  ( 9.2%) 
+edges                29367/256000     117468/1024000  (11.5%) 
+LDR worldlights        124/8192        10912/720896   ( 1.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            812/32768        8120/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13632/65536       27264/131072   (20.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                12/512          4224/180224   ( 2.3%) 
+LDR lightdata         [variable]     6548380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      209074/16777216 ( 1.2%) 
+entdata               [variable]       92210/393216   (23.5%) 
+LDR ambient table     3276/65536       13104/262144   ( 5.0%) 
+HDR ambient table     3276/65536       13104/262144   ( 5.0%) 
+LDR leaf ambient     15892/65536      444976/1835008  (24.2%) 
+HDR leaf ambient      3276/65536       91728/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/10958    ( 0.0%) 
+pakfile               [variable]      214427/0        ( 0.0%) 
+physics               [variable]      605501/4194304  (14.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 17681
+Writing c:\users\Елена\desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+1 minute, 50 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 172409: FloatPlane: bad normal
+Side 1
+Texture: DEV/DEV_MEASUREGENERIC01
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 172409: FloatPlane: bad normal
+Side 1
+Texture: DEV/DEV_MEASUREGENERIC01
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 172409: FloatPlane: bad normal
+Side 1
+Texture: DEV/DEV_MEASUREGENERIC01B
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 332 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (642843 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1885 texinfos to 1147
+Reduced 122 texdatas to 111 (3112 bytes to 2640)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/rp_eastblock/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 332 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (642843 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1885 texinfos to 1147
+Reduced 122 texdatas to 111 (3126 bytes to 2647)
+Writing C:\Users\Елена\Desktop\df\slavbloke\slavblock\map\rp_eastblock.bsp
+5 seconds elapsed
